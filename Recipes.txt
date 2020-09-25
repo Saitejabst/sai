@@ -4,5 +4,7 @@ welcome to git
 
 good 
 nice
+awesome
+extraordinary
 
-okay
+regards
