@@ -8,3 +8,6 @@ awesome
 extraordinary
 
 regards
+
+something
+ new
